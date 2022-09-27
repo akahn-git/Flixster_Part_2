@@ -12,8 +12,8 @@ Time spent: 4 hours spent in total
 
 The following **required** functionality is completed:
 
-[*]Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity. (8 points)
-[*] Allow video posts to be played in full-screen using the YouTubePlayerView (2 points)
+[.]Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity. (8 points)
+[.] Allow video posts to be played in full-screen using the YouTubePlayerView (2 points)
 
 The following **additional** features are implemented:
 
