@@ -1,6 +1,6 @@
 # FlixsterKotlinVersion
 
-# Homework 1 - Flixster
+# Homework 2 - Flixster Part 2
 
 This project lets users view a list of movies sourced from the The Movie Database API.
 
@@ -12,19 +12,9 @@ Time spent: 4 hours spent in total
 
 The following **required** functionality is completed:
 
-[*] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API. (10 points)
+[*] Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity. (8 points)
+[*] Allow video posts to be played in full-screen using the YouTubePlayerView (2 points)
 
-The following **optional** features are implemented:
-
-[*]Views should be responsive for both landscape/portrait mode. (2 points)
-
-[]In portrait mode, the poster image, title, and movie overview is shown.
-In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
-Display a nice default placeholder graphic for each image during loading (read more about Glide). If you're running your app on an emulator, you can change the network speed of the emulator to test this feature by following the guidance here. (1 point)
-
-[]Improve the user interface through styling and coloring (1 to 5 points depending on the difficulty of UI improvements)
-
-[]For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones. (2 points)
 The following **additional** features are implemented:
 
 * [] List anything else that you can get done to improve the app functionality!
@@ -38,7 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Flixster](https://user-images.githubusercontent.com/98711133/191158383-7005f840-327d-4bc9-b161-7e8d69d17845.gif)
+![Flixster2](https://user-images.githubusercontent.com/98711133/192414278-e8631991-69ce-4383-b1d6-ef87b1e5cf94.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
